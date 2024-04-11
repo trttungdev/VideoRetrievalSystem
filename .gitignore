@@ -1,0 +1,6 @@
+backend/data/
+backend/uploaddata.log
+frontend/node_modules
+Dockerfile
+docker-compose.yml
+init.sh
